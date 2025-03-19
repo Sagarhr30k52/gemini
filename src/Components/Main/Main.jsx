@@ -22,19 +22,19 @@ const Main = () => {
             </div>
             <div className="cards">
                 <div className="card">
-                    <p>butiful placce to visit</p>
+                    <p>beautiful places in the world</p>
                     <img src={assets.compass_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>planning</p>
+                    <p>things to plan for a trip</p>
                     <img src={assets.bulb_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>work retreat</p>
+                    <p>how to balance work and life?</p>
                     <img src={assets.message_icon} alt="" />
                 </div>
                 <div className="card">
-                    <p>butiful placce to visit</p>
+                    <p>how to be happy?</p>
                     <img src={assets.code_icon} alt="" />
                 </div>
             </div>
@@ -70,7 +70,7 @@ const Main = () => {
                     </div>
                 </div>
                 <p className='bottom-info'>
-                    Gimini may display wrong info
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 </p>
             </div>
         </div>
